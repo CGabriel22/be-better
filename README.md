@@ -16,10 +16,26 @@ In order to help everyone increase their productivity, organize their time and d
 
 ---
 
-### Demonstration <a name="demonstration"></a>
-### Philosophy <a name="philosophy"></a>
-### Technologies used <a name="tecUsed"></a>
-### Progress <a name="progress"></a>
-### How to run on your machine <a name="howToRun"></a>
-### Contributors <a name="contributors"></a>
-### Notes <a name="notes"></a>
+### 💻 Demonstration <a name="demonstration"></a>
+### ⭐ Philosophy <a name="philosophy"></a>
+### 🚀 Technologies used <a name="tecUsed"></a>
+- Figma (design editor)
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Style Components
+- Node.js
+- Nest.js
+- SQLite
+- Prisma
+- FireBase Authentication
+- Vercel (Front-end host)
+- Heroku (Back-end host)
+### 📈 Progress <a name="progress"></a>
+
+##### 🚧   Projeto 🚀 em iniciação...   🚧
+
+### ⚙ How to run on your machine <a name="howToRun"></a>
+### 👪 Contributors <a name="contributors"></a>
+### 📌 Notes <a name="notes"></a>

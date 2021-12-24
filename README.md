@@ -38,4 +38,10 @@ In order to help everyone increase their productivity, organize their time and d
 
 ### ⚙ How to run on your machine <a name="howToRun"></a>
 ### 👪 Contributors <a name="contributors"></a>
+
+<div style="display: flex;">
+  <a href="https://github.com/bielframos"> <img width="40px" src="contributors/Avatar.png"> </a>
+  <a href="https://github.com/CGabriel22"> <img width="40px" src="contributors/Avatar (1).png"> </a>
+</div>
+
 ### 📌 Notes <a name="notes"></a>

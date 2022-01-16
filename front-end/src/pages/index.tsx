@@ -1,16 +1,20 @@
-import Example from '@components/Example';
+import Header from '@components/Header';
 import { NextPage } from 'next';
+import dynamic from 'next/dynamic';
 import Head from 'next/head';
+const Example = dynamic(() => import('@components/Example'));
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <>
       <Head>
-        <title>Your title here!</title>
+        <title>Next Default Project</title>
       </Head>
 
-      <Example color="#d40a0a">teste</Example>
-    </div>
+      <Header title="Next Default Project" page="Home" />
+
+      <Example color="red" />
+    </>
   );
 };
 

@@ -9,6 +9,15 @@ export const AddIcon: React.FC<IconProps> = ({
   return <JokerIcon d={d} color={color} fontSize={fontSize} />;
 };
 
+export const RemoveIcon: React.FC<IconProps> = ({
+  color = '#000',
+  fontSize = 24,
+}) => {
+  const d =
+    'M18 13H6C5.45 13 5 12.55 5 12C5 11.45 5.45 11 6 11H18C18.55 11 19 11.45 19 12C19 12.55 18.55 13 18 13Z';
+  return <JokerIcon d={d} color={color} fontSize={fontSize} />;
+};
+
 export const ArrowDownIcon: React.FC<IconProps> = ({
   color = '#000',
   fontSize = 24,

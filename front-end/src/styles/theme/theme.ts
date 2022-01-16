@@ -14,16 +14,7 @@ export const ThemeStyle = createGlobalStyle`
   --primary-800: #30009c;
   --primary-900: #23036a;
 
-  --secondary-50: #c8fff4;
-  --secondary-100: #70efde;
-  --secondary-200: #03dac5;
-  --secondary-300: #00c4b4;
-  --secondary-400: #00b3a6;
-  --secondary-500: #01a299;
-  --secondary-600: #019592;
-  --secondary-700: #018786;
-  --secondary-800: #017374;
-  --secondary-900: #005457;
+  --primary-t-hover: rgba(130,220,220,0.18);
 
   --error: #b00020;
   --on-error: #fff;

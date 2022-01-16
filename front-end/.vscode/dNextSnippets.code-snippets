@@ -3,7 +3,7 @@
     "scope": "typescriptreact",
     "prefix": "_rafcet",
     "body": [
-      "import { ${TM_DIRECTORY/^.+[\\\\\\/](.*)$/${1:/pascalcase}/}_ } from './style';",
+      "import { ${TM_DIRECTORY/^.+[\\\\\\/](.*)$/${1:/pascalcase}/}_ } from './${TM_DIRECTORY/^.+[\\\\\\/](.*)$/${1:/camelcase}/}';",
       "",
       "interface ${TM_DIRECTORY/^.+[\\\\\\/](.*)$/${1:/pascalcase}/}Props {",
       "  // propriedades",

@@ -31,5 +31,7 @@
     "styled/**": true,
     "types/**": true,
     "utilities/**": true
-  }
+  },
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
 }
